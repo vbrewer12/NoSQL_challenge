@@ -1,7 +1,7 @@
 # Food Hygiene Ratings ETL & Analysis
 
 ## Project Overview
-This project involves extracting, transforming, and analyzing food hygiene ratings from the **UK Food Standards Agency** using **MongoDB**. The goal is to clean, update, and analyze the data to identify trends and provide insights for food safety journalism.
+This project displays extracting, transforming, and analyzing food hygiene ratings from the **UK Food Standards Agency** using **MongoDB**. 
 
 ## Technologies Used
 - **MongoDB**: NoSQL database for data storage and queries
@@ -25,7 +25,7 @@ This project involves extracting, transforming, and analyzing food hygiene ratin
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dagimg16/nosql-challenge.git
+   git clone https://github.com/vbrewer12/NoSQL_challenge.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -61,10 +61,4 @@ This project involves extracting, transforming, and analyzing food hygiene ratin
 ## Conclusion
 This project demonstrates the power of **MongoDB and Python** in managing and analyzing food safety data. By structuring and cleaning the dataset, we provide valuable insights into food hygiene trends across the UK.
 
-## Acknowledgments
-  - Thanks to SMU and my instructors for guiding me through this learning journey!
-  - And a big thank you to everyone checking out this project.
-
-## License
-  - Feel free to use and modify this script for your own learning.
 
